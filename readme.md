@@ -1,6 +1,6 @@
 # Api Docs
 - Api: [https://documenter.getpostman.com/view/11583515/2s93JxqLLh](https://documenter.getpostman.com/view/11583515/2s93JxqLLh)
-- video walkthrough: 
+- video walkthrough: https://www.loom.com/share/e68ae7bd63a24c77a1b5a5ce29c44743
 
 
 
